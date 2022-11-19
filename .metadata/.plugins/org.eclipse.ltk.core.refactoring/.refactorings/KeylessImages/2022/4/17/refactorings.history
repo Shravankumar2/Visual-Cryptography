@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;KeylessImages&apos;&#x0D;&#x0A;- Original project: &apos;KeylessImages&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     KeylessImages/work/org.apache.jsp&#x0D;&#x0A;     KeylessImages/work/org.apache.jsp.Resources.JSP.User&#x0D;&#x0A;     SESSIONS.ser&#x0D;&#x0A;- Delete subpackages" description="Delete elements" element1="work/SESSIONS.ser" element2="/work&lt;org.apache.jsp.Resources.JSP.User" element3="/work&lt;org.apache.jsp.Resources.JSP" element4="/work&lt;org.apache.jsp.Resources" element5="/work&lt;org.apache.jsp" element6="/work&lt;org.apache" element7="/work&lt;org" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1650535383250" subPackages="true" version="1.0"/>
+</session>

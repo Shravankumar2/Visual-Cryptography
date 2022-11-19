@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;Face_Identification&apos;&#x0D;&#x0A;- Original project: &apos;Face_Identification&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Face_Identification/work/org.apache.jsp&#x0D;&#x0A;     Face_Identification/work/org.apache.jsp.res.jsp.admin&#x0D;&#x0A;     Face_Identification/work/org.apache.jsp.res.jsp.user&#x0D;&#x0A;- Delete subpackages" description="Delete elements" element1="/work&lt;org.apache.jsp.res.jsp.user" element2="/work&lt;org.apache.jsp.res.jsp.admin" element3="/work&lt;org.apache.jsp.res.jsp" element4="/work&lt;org.apache.jsp.res" element5="/work&lt;org.apache.jsp" element6="/work&lt;org.apache" element7="/work&lt;org" elements="7" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1652254316244" subPackages="true" version="1.0"/>
+</session>
